@@ -13,12 +13,14 @@
 - 📫 How to reach me on Instagram :-https://www.instagram.com/deepak._310/
 - ⚡ Fun fact: ...Foodie love Traveling 
 
-
-[<img align="left" alt="Instagram" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fparentzone.org.uk%2Farticle%2Finstagram-%25E2%2580%2593-what-are-issues&psig=AOvVaw2wjJag24haitrWrpRlF4Zc&ust=1632847453285000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjbjPfMn_MCFQAAAAAdAAAAABAD" />](https://www.instagram.com/deepak._310/)
+## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/deepak._310/)
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/17017988/deepak-chouhan?tab=profile)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter%20-blue?logo=twitter&logoColor=white&style=for-the-badge" />](https://twitter.com/Deepakc29950015)
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> ()
 
 <br>
 <br>
