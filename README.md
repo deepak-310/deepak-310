@@ -12,7 +12,7 @@
   - 🤔 I’m looking for help with Node js<br>
   - 💬 Ask me about Anything <br>
   - 📫 How to reach me on Instagram :-https://www.instagram.com/deepak._310/<br>
-  - ⚡ Fun fact: ...Foodie love Traveling 
+  - ⚡ Fun fact: Foodie love Traveling 
   </p>
 
   #👨👩 Social
