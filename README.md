@@ -1,8 +1,8 @@
 
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Deepak</h1>
 
+<marquee direction="down" height="100" width="200" bgcolor="white"><h2 align="center"> Welcome To My Profile </h2></marquee>
 
-<p align="center"> Welcome To My Profile </p>
 <h1> About Me</h1>
 
 - 🔭 I’m currently working on internship 
