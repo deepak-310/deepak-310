@@ -14,22 +14,19 @@
 - ⚡ Fun fact: ...Foodie love Traveling 
 
 #👨👩 Social
-
-<div style="display:flex">
  
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/deepak._310/)
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/17017988/deepak-chouhan?tab=profile)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter%20-blue?logo=twitter&logoColor=white&style=for-the-badge" />](https://twitter.com/Deepakc29950015)
-<br><br>
+<br>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]()
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepak-chouhan-a12ab11bb/)
  
 [<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />](https://www.snapchat.com/add/blazedboy_310?share_id=ronnnF3ZPbA&locale=en-US)
- 
- </div>
+
 
 <br>
 <br>
