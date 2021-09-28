@@ -30,7 +30,7 @@
   [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter%20-blue?logo=twitter&logoColor=white&style=for-the-badge" />](https://twitter.com/Deepakc29950015)
   <br>
    <br>
-  [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]()
+  [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox)
   
   [<img  align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepak-chouhan-a12ab11bb/)
    
