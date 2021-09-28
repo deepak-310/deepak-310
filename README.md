@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Deepak</h1>
 
-<marquee direction="down" height="100" width="200" bgcolor="white"><h2 align="center"> Welcome To My Profile </h2></marquee>
+<h2 align="center" style="color:'green'"> Welcome To My Profile </h2>
 
 <h1> About Me</h1>
 
@@ -13,7 +13,7 @@
 - 📫 How to reach me on Instagram :-https://www.instagram.com/deepak._310/
 - ⚡ Fun fact: ...Foodie love Traveling 
 
-## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
+<h1 color="red">#👨👩 Social</h1>
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/deepak._310/)
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/17017988/deepak-chouhan?tab=profile)
@@ -26,7 +26,7 @@
 
 <br>
 <br>
-## Skills
+<h2 color="green"> Skills <h2>
 <div style="display:flex">
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
