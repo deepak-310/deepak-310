@@ -6,7 +6,7 @@
   
   <h1> About Me</h1>
   <p>
-  - 🔭 I’m currently working on internship <br>
+  - 🔭 I’m currently doing internship <br>
   - 🌱 I’m currently learning React Js<br>
   - 👯 I’m looking to collaborate on Node js<br>
   - 🤔 I’m looking for help with Node js<br>
@@ -52,8 +52,13 @@
     
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     </div>
-  <br>
-  <br>
+
+   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> 
+  </a> 
+   <a href="https://www.adobe.com/in/products/illustrator.html?sdid=SBNHMR64&mv=search&ef_id=CjwKCAjwzt6LBhBeEiwAbPGOgY7OZivG11LcPXBys3Za_2t_B0tBWye0NK3bK1KLSiPoJlK2WDB5SxoCOCcQAvD_BwE:G:s&s_kwcid=AL!3085!3!248235017690!e!!g!!illustrator!221172068!17525759348" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/66px-Adobe_Illustrator_CC_icon.svg.png" alt="ai" width="40" height="40"/> 
+  </a> 
   
   ## ⚡ Database
   <img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
