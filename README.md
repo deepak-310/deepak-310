@@ -7,7 +7,7 @@
   <h1> About Me</h1>
   <p>
   - 🔭 I’m currently doing internship <br>
-  - 🌱 I’m currently learning React Js<br>
+  - 🌱 I’m currently learning Block chain <br>
   - 👯 I’m looking to collaborate on Node js<br>
   - 🤔 I’m looking for help with Node js<br>
   - 💬 Ask me about Anything <br>
